@@ -110,9 +110,9 @@ header[data-testid="stHeader"] { background: transparent; }
 }
 .stTextInput input {
     background: transparent !important;
-    color: var(--text) !important;
-    -webkit-text-fill-color: var(--text) !important;
-    caret-color: var(--accent) !important;
+    color: #0f1522 !important;
+    -webkit-text-fill-color: #0f1522 !important;
+    caret-color: #0f1522 !important;
     font-family: 'Instrument Sans', sans-serif !important;
     font-size: 1.02rem !important;
     padding: 0.8rem 1rem !important;
